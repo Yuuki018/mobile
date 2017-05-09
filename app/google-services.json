@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271927650640",
+    "firebase_url": "https://doktogelfin.firebaseio.com",
+    "project_id": "doktogelfin",
+    "storage_bucket": "doktogelfin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271927650640:android:8a0c21151f28364b",
+        "android_client_info": {
+          "package_name": "com.example.shiroguevarra.doktogel_fin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271927650640-djej6iqkvfskdcmalaqp6v2idp3obea8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiroguevarra.doktogel_fin",
+            "certificate_hash": "29d459124e4f3ebd801b0bb83b9a76eeaa975647"
+          }
+        },
+        {
+          "client_id": "271927650640-j86k64ampo00c2h6imdh5u47srs8t662.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUs389oSYY6Ph2xizVEsoSs0mFL6ygIzg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271927650640-j86k64ampo00c2h6imdh5u47srs8t662.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

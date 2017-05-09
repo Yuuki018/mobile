@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item
+        android:id="@+id/prediksi_togel"
+        android:title="Prediksi Togel"
+        android:background="@drawable/divider"/>
+    <item
+        android:id="@+id/hasil_togel_sebelumnya"
+        android:title="Hasil Togel Sebelumnya"
+        android:background="@drawable/divider" />
+    <item
+        android:id="@+id/tafsir_mimpi"
+        android:title="Tafsir Mimpi"
+        android:background="@drawable/divider" />
+    <item
+        android:id="@+id/panduan_togel"
+        android:title="Panduan Togel"
+        android:background="@drawable/divider" />
+    <item
+        android:id="@+id/shio_togel"
+        android:title="Shio Togel" />
+    <item
+        android:id="@+id/neptu_hari"
+        android:title="Neptu Hari" />
+    <item
+        android:id="@+id/data_tasyen"
+        android:title="Data Tasyen" />
+    <item
+        android:id="@+id/tentang_kami"
+        android:title="Tentang Kami" />
+
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Doktogel_fin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shio_togel">ShioTogelActivity</string>
+    <string name="title_activity_prediksi_togel">PrediksiTogelActivity</string>
+    <string name="title_activity_hasil_togel_sebelumnya">HasilTogelSebelumnyaActivity</string>
+    <string name="title_activity_tafsir_mimpi">TafsirMimpiActivity</string>
+    <string name="title_activity_panduan_togel">PanduanTogelActivity</string>
+    <string name="title_activity_neptu_hari">NeptuHariActivity</string>
+    <string name="title_activity_data_tasyen">DataTasyenActivity</string>
+    <string name="title_activity_tentang_kami">TentangKamiActivity</string>
+
+    <string name="facebook_app_id">1596047383771104</string>
+    <string name="fb_login_protocol_scheme">fb1596047383771104</string>
+</resources>
